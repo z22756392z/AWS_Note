@@ -40,11 +40,11 @@ However, in a custom VPC, you'll need to manually configure the connections, inc
 
 nat gateway
 
-let the virtual machine inside private cloud to access outter internet, which may because the virutal machine may need to download something in outer net.
+let the virtual machine inside private cloud to access outer internet, which may because the virutal machine may need to download something in outer net.
 
-and it only allow virtula machine to access outer net. However out net couldn't access the virutal machine inside the private cloud.
+and it only allow virtula machine to access outernet. However outernet couldn't access the virutal machine inside the private cloud.
 
-## How Ec2 commuately with each other
+## How Ec2 communiate with each other
 
 They use router inside the vpc
 
